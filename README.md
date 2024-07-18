@@ -7,7 +7,7 @@ I'm ChairGamertag87, a French developer, I'm currently studying many language li
 My current project : 
 
 - [Hydromel](https://www.curseforge.com/minecraft/mc-mods/hydromel)
-- [RequiemOfArcade] Comming Soon ...
+- RequiemOfArcade Comming Soon ...
 
 
 If you want, you can contact me on discord at @chairgamertag87
