@@ -20,5 +20,4 @@ My current project :
 
 If you want, you can contact me on discord at @chairgamertag87
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact)
