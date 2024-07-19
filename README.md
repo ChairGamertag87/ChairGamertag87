@@ -4,7 +4,7 @@ I'm ChairGamertag87, a French developer, I'm currently studying many languages l
 
 &nbsp;
 
-## My Skill : 
+## My Skills : 
 
 <p align="center">
   <a href="https://skillicons.dev">
