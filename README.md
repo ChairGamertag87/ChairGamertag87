@@ -17,7 +17,7 @@ I'm ChairGamertag87, a French developer, I'm currently studying many languages l
 My current project : 
 
 - [Hydromel](https://www.curseforge.com/minecraft/mc-mods/hydromel)
-- [FiscalFocus](https://www.curseforge.com/minecraft/mc-mods/hydromel)
+- [FiscalFocus](https://github.com/ChairGamertag87/FiscalFocus)
 - RequiemOfArcade Comming Soon ...
 
 
