@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ChairGamertag87, a French developer, I'm currently studying many languages like Java, JavaScript, Python, CS ... I'm passionate about learning and coding ! a
+I'm ChairGamertag87, a French developer, I'm currently studying many languages like Java, JavaScript, Python, CS ... I'm passionate about learning and coding ! 
 
 &nbsp;
 
