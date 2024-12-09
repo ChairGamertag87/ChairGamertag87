@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ChairGamertag87, a French developer, I'm currently studying many languages like Java, JavaScript, Python, CS ... I'm passionate about learning and coding ! 
+I'm ChairGamertag87, a French developer, I'm currently studying many languages like Java, JavaScript, Python, Bash ... I'm passionate about learning and coding ! 
 
 &nbsp;
 
@@ -16,7 +16,7 @@ I'm ChairGamertag87, a French developer, I'm currently studying many languages l
 
 My current project : 
 
-- [Hydromel](https://www.curseforge.com/minecraft/mc-mods/hydromel)
+- [Hydromel](https://www.curseforge.com/minecraft/mc-mods/hydromel) I don't think any new updates will come out, I lost the files :(
 - [FiscalFocus](https://github.com/ChairGamertag87/FiscalFocus)
 - RequiemOfArcade Comming Soon ...
 
