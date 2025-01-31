@@ -1,10 +1,13 @@
-## Hi there 👋
+# Hi there 👋  
 
-I'm ChairGamertag87, a French developer, I'm currently studying many languages like Java, JavaScript, Python, Bash ... I'm passionate about learning and coding ! 
+### I'm ChairGamertag87, a passionate French developer! 🇫🇷  
 
-&nbsp;
+I'm currently studying multiple programming languages, including **Java, JavaScript, Python, Bash, Dart, and more**.  
+I love learning new technologies and working on exciting coding projects! 🚀  
 
-## My Skills : 
+---
+
+## 🛠️ My Skills  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,15 +15,22 @@ I'm ChairGamertag87, a French developer, I'm currently studying many languages l
   </a>
 </p>
 
-&nbsp;
+---
 
-My current project : 
+## 🚀 Current Projects  
 
-- [Hydromel](https://www.curseforge.com/minecraft/mc-mods/hydromel) I don't think any new updates will come out, I lost the files :(
-- [FiscalFocus](https://github.com/ChairGamertag87/FiscalFocus)
-- RequiemOfArcade Comming Soon ...
+- [**Hydromel**](https://www.curseforge.com/minecraft/mc-mods/hydromel) *(Sadly, I lost the files, so no new updates 😢)*
+- [**FiscalFocus**](https://github.com/ChairGamertag87/FiscalFocus)
+- **RequiemOfArcade** *(Coming Soon... Stay Tuned!)*  
 
+---
 
-If you want, you can contact me on discord at @chairgamertag87
+## 📫 Contact Me  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact)
+Feel free to reach out to me on **Discord** → `@chairgamertag87`  
+
+---
+
+## 📊 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&theme=radical)
