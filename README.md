@@ -16,7 +16,7 @@ I love learning new technologies and working on exciting coding projects! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,dart,flutter,lua,cs,discordjs" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,dart,flutter,lua,discordjs" />
   </a>
 </p>
 
