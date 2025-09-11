@@ -32,8 +32,8 @@ I love learning new technologies and working on exciting coding projects! 🚀
 
 ## 🚀 Current Projects  
 
-- [**Hydromel**](https://www.curseforge.com/minecraft/mc-mods/hydromel) (Sadly, I lost the files, so no new updates 😢)
-- [**Penguin Creations Bot**](https://penguin-creations.jimdosite.com/)
+- [**CroustOccitanie**](https://github.com/ChairGamertag87/CroustOccitanie)
+- [**Pumpkin's Mayhem Minecraft Map**](https://github.com/ChairGamertag87/Pumpkin-s-Mayhem-Datapack)
 
 ---
 
