@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-### I'm ChairGamertag87, a passionate French developer! 🇫🇷  
+### I'm ChairGamertag87, a passionate French developer and IT Student! 🇫🇷  
 
 I'm currently studying multiple programming languages, including **Java, JavaScript, Python, Bash, Dart, and more**.  
 I love learning new technologies and working on exciting coding projects! 🚀  
