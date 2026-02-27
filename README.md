@@ -49,5 +49,5 @@ Feel free to reach out to me on :
 
 ## 📊 Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&theme=radical)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Langs" />
 
