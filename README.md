@@ -36,7 +36,7 @@ I build web apps, game tools, and backend systems. Currently focused on full-sta
 | Project | Description |
 |---|---|
 | [**MyFiguDB**](https://github.com/myfigudb/myfigudb) | Figure collection management platform — TypeScript monorepo with a modular backend architecture |
-| [**KraftFlopEDT**](https://github.com/ChairGamertag87/KraftFlopEDT) | Timetable web app for IUT Blagnac, consuming the FlOpEDT API — deployed with Nginx and Cloudflare |
+| [**KraftFlopEDT**](https://kraftflopedt.habibiserver.dev) | Timetable web app for IUT Blagnac, consuming the FlOpEDT API — deployed with Nginx and Cloudflare |
 
 ---
 
