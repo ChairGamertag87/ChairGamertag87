@@ -62,8 +62,8 @@ More projects, experiments, and tools on [my repositories page](https://github.c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChairGamertag87&show_icons=true&hide_border=true&theme=nord&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=ChairGamertag87&show_icons=true&hide_border=true&theme=nord&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" height="165" />
 
 </div>
 
