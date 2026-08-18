@@ -1,13 +1,26 @@
-# Clement H. — @ChairGamertag87
+<div align="center">
 
-Full-stack and application developer, IT student at IUT de Blagnac, France.  
-Freelance developer under **La Chaise Studio** — specialized in Minecraft server development and web applications.
+# Clement H.
+
+**Full-stack and application developer**
+
+IT student at IUT de Blagnac, France | Freelance developer at **La Chaise Studio**
+
+[![Website](https://img.shields.io/badge/Website-chairgamertag87.fr-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://chairgamertag87.fr)
+[![Discord](https://img.shields.io/badge/Discord-%40chairgamertag87-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub followers](https://img.shields.io/github/followers/ChairGamertag87?style=flat-square&logo=github&label=Followers)](https://github.com/ChairGamertag87?tab=followers)
+
+</div>
 
 ---
 
 ## About
 
-I build web apps, game tools, and backend systems. Currently focused on full-stack TypeScript and Java development, with a strong interest in game-adjacent projects and developer tooling.
+I build web apps, game tools, and backend systems. My work spans full-stack TypeScript, Java development, and everything in between: Discord bots, Minecraft mods and datapacks, real-time multiplayer games, and developer tooling.
+
+- Currently studying computer science at IUT de Blagnac
+- Freelancing under **La Chaise Studio**, with a focus on Minecraft server development and web applications
+- Strong interest in game-adjacent projects, real-time systems, and self-hosted infrastructure
 
 ---
 
@@ -17,15 +30,15 @@ I build web apps, game tools, and backend systems. Currently focused on full-sta
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cs,html,css,lua,bash,dart" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cs,html,css,lua,bash,dart" alt="Java, JavaScript, TypeScript, Python, C, C#, HTML, CSS, Lua, Bash, Dart" />
   </a>
 </p>
 
-**Tools & Frameworks**
+**Tools and Frameworks**
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,nginx,git,github,idea,vscode,sqlite,notion,cloudflare,discordjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,flutter,nginx,git,github,idea,vscode,sqlite,notion,cloudflare,discordjs" alt="Node.js, Flutter, Nginx, Git, GitHub, IntelliJ IDEA, VS Code, SQLite, Notion, Cloudflare, Discord.js" />
   </a>
 </p>
 
@@ -33,19 +46,36 @@ I build web apps, game tools, and backend systems. Currently focused on full-sta
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [**MyFiguDB**](https://github.com/myfigudb/myfigudb) | Figure collection management platform — TypeScript monorepo with a modular backend architecture |
-| [**KraftFlopEDT**](https://kraftflopedt.habibiserver.dev) | Timetable web app for IUT Blagnac, consuming the FlOpEDT API — deployed with Nginx and Cloudflare |
+| Project | Stack | Description |
+|---|---|---|
+| [**MyFiguDB**](https://github.com/myfigudb/myfigudb) | TypeScript | Figure collection management platform, built as a TypeScript monorepo with a modular backend architecture |
+| [**KraftFlopEDT**](https://kraftflopedt.habibiserver.dev) | JavaScript | Timetable web app for IUT Blagnac, consuming the FlOpEDT API, deployed behind Nginx and Cloudflare |
+| [**Undercover**](https://github.com/ChairGamertag87/undercover) | Node.js, WebSocket | Online multiplayer Undercover / Mr White party game, real-time and framework-free |
+| [**mc-world-export**](https://github.com/ChairGamertag87/mc-world-export) | Java | Minecraft mod that exports worlds and animations to Blender and similar 3D software |
+
+More projects, experiments, and tools on [my repositories page](https://github.com/ChairGamertag87?tab=repositories).
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChairGamertag87&show_icons=true&hide_border=true&theme=nord&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
 ## Contact
 
-- Discord — `@chairgamertag87`
-- Website — [chairgamertag87.fr](https://chairgamertag87.fr)
-- GitHub — [ChairGamertag87](https://github.com/ChairGamertag87)
+| Channel | Where to find me |
+|---|---|
+| Website | [chairgamertag87.fr](https://chairgamertag87.fr) |
+| Discord | `@chairgamertag87` |
+| GitHub | [ChairGamertag87](https://github.com/ChairGamertag87) |
 
----
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" />
+<div align="center">
+<sub>Thanks for stopping by. Feel free to explore my repositories or reach out.</sub>
+</div>
