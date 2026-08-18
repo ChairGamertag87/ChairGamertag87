@@ -4,7 +4,7 @@
 
 **Full-stack and application developer**
 
-IT student at IUT de Blagnac, France | Freelance developer at **La Chaise Studio**
+IT student at IUT de Blagnac, France | Apprentice developer at **[Recube](https://recube.gg)** | Freelance developer at **La Chaise Studio**
 
 [![Website](https://img.shields.io/badge/Website-chairgamertag87.fr-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://chairgamertag87.fr)
 [![Discord](https://img.shields.io/badge/Discord-%40chairgamertag87-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
@@ -19,6 +19,7 @@ IT student at IUT de Blagnac, France | Freelance developer at **La Chaise Studio
 I build web apps, game tools, and backend systems. My work spans full-stack TypeScript, Java development, and everything in between: Discord bots, Minecraft mods and datapacks, real-time multiplayer games, and developer tooling.
 
 - Currently studying computer science at IUT de Blagnac
+- Working as an apprentice developer (alternance) at **[Recube](https://recube.gg)**
 - Freelancing under **La Chaise Studio**, with a focus on Minecraft server development and web applications
 - Strong interest in game-adjacent projects, real-time systems, and self-hosted infrastructure
 
@@ -61,8 +62,8 @@ More projects, experiments, and tools on [my repositories page](https://github.c
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChairGamertag87&show_icons=true&hide_border=true&theme=nord&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChairGamertag87&show_icons=true&hide_border=true&theme=nord&bg_color=00000000&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChairGamertag87&layout=compact&hide_border=true&theme=nord&bg_color=00000000" alt="Top Languages" height="165" />
 
 </div>
 
